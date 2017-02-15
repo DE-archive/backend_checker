@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  url: MyString
+  rank: 1
+  tld: MyString
+  backend: MyString
+
+two:
+  url: MyString
+  rank: 1
+  tld: MyString
+  backend: MyString
